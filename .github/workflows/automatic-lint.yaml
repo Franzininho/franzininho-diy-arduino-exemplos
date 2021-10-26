@@ -1,3 +1,4 @@
+name: static tests
 on:
   push:
     branches:
